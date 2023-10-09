@@ -1,7 +1,6 @@
 var __BLOCKEDSITES__ = [
   "*.ua",
   "*.3dyuriki.com",
-  "*.127.0.0.1:32400",
   "*.4pda.ru",
   "9tv.co.il",
   "*.activatica.org",
