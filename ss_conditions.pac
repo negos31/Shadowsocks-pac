@@ -129,6 +129,7 @@ var __BLOCKEDSITES__ = [
   "*.paperpaper.io",
   "*.patreon.com",
   "*.plex.tv",
+  "plex.tv",
   "*.politiken.dk",
   "*.pornhub.com",
   "*.rt.pornhub.com",
