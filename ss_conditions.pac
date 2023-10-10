@@ -1,4 +1,5 @@
 var __BLOCKEDSITES__ = [
+  "*.127.0.0.1:32400",
   "*.ua",
   "*.3dyuriki.com",
   "*.4pda.ru",
