@@ -211,6 +211,7 @@ var __BLOCKEDSITES__ = [
   "*.zahav.ru",
   "*.zerkalo.io",
   "*.zona.media"
+  "*.rankmath.com"
 ];
 
 var proxy;
