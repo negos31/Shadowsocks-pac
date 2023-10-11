@@ -1,5 +1,4 @@
 var __BLOCKEDSITES__ = [
-  "*.127.0.0.1:32400",
   "*.ua",
   "*.3dyuriki.com",
   "*.4pda.ru",
@@ -50,6 +49,7 @@ var __BLOCKEDSITES__ = [
   "*.exler.ru",
   "*.expres.online",
   "*.facebook.com",
+  "*.fapreactor.com",
   "*.fbcdn.net",
   "*.flibusta.is",
   "*.fonge.org",
@@ -109,7 +109,7 @@ var __BLOCKEDSITES__ = [
   "*.navalny.com",
   "*.netflix.com",
   "*.newsru.com",
-  "newsru.co.il",
+  "*.newsru.co.il",
   "*.newtimes.ru",
   "*.nhentai.net",
   "*.novaya.no",
@@ -128,11 +128,7 @@ var __BLOCKEDSITES__ = [
   "*.paperpaper.ru",
   "*.paperpaper.io",
   "*.patreon.com",
-  "*.plex.tv",
-  "**.plex.tv",
   "*.politiken.dk",
-  "*.pornhub.com",
-  "*.rt.pornhub.com",
   "*.posle.media",
   "*.postimees.ee",
   "*.proekt.media",
@@ -148,6 +144,7 @@ var __BLOCKEDSITES__ = [
   "*.rferl.org",
   "*.roar-review.com",
   "*.root-nation.com",
+  "*.rule34.xxx",
   "*.rutor.info",
   "*.rutor.is",
   "*.rutracker.org",
@@ -202,6 +199,7 @@ var __BLOCKEDSITES__ = [
   "*.voanews.com",
   "*.vot-tak.tv",
   "*.vpnlove.me",
+  "*.weather.com",
   "*.welt.de",
   "*.windscribe.com",
   "*.wixmp.com",
@@ -210,8 +208,12 @@ var __BLOCKEDSITES__ = [
   "*.yle.fi",
   "*.zahav.ru",
   "*.zerkalo.io",
-  "*.zona.media"
+  "*.zona.media",
+  "*.zomro.com"
   "*.rankmath.com"
+  "*.pornhub.com",
+  "*.rt.pornhub.com",
+  "*.plex.tv",
 ];
 
 var proxy;
@@ -251,5 +253,7 @@ var FindProxyForURL = function(init, profiles) {
             return direct;
         }
         return proxy;
+    }
+});
     }
 });
