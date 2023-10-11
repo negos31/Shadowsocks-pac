@@ -209,7 +209,11 @@ var __BLOCKEDSITES__ = [
   "*.zahav.ru",
   "*.zerkalo.io",
   "*.zona.media",
-  "*.zomro.com"
+  "*.zomro.com",
+  "*.rankmath.com",
+  "*.pornhub.com",
+  "*.rt.pornhub.com",
+  "*.plex.tv".
 ];
 
 var proxy;
