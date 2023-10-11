@@ -210,10 +210,6 @@ var __BLOCKEDSITES__ = [
   "*.zerkalo.io",
   "*.zona.media",
   "*.zomro.com"
-  "*.rankmath.com"
-  "*.pornhub.com",
-  "*.rt.pornhub.com",
-  "*.plex.tv",
 ];
 
 var proxy;
@@ -253,7 +249,5 @@ var FindProxyForURL = function(init, profiles) {
             return direct;
         }
         return proxy;
-    }
-});
     }
 });
