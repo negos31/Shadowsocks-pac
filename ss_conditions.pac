@@ -213,6 +213,7 @@ var __BLOCKEDSITES__ = [
   "*.rankmath.com",
   "*.pornhub.com",
   "*.rt.pornhub.com",
+  "*.127.0.0.1:32400",
   "*.plex.tv"
 ];
 
