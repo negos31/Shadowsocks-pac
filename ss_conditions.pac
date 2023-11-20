@@ -219,6 +219,7 @@ var __BLOCKEDSITES__ = [
   "*.pornhub.com",
   "*.rt.pornhub.com",
   "*.plex.tv",
+  "*.chat.openai.com",
   "*.2ip.ru"
 ];
 
