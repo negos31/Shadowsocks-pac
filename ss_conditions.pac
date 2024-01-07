@@ -266,7 +266,6 @@ var __BLOCKEDSITES__ = [
   "*.chat.openai.com",
   "*.xhamster.com",
   "*.2ip.ru"
-
 ];
 
 var proxy;
