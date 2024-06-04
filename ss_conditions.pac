@@ -305,6 +305,7 @@ var __BLOCKEDSITES__ = [
   "*.2ip.ru",
   "*.tmetric.com",
   "*.app.tmetric.com",
+  "*.gtmetrix.com",
   "*.zomro.com"
 ];
 
