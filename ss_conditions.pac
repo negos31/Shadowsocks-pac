@@ -299,13 +299,13 @@ var __BLOCKEDSITES__ = [
   "*.zona.media",
   "*.rt.pornhub.com",
   "*.plex.tv",
-  "*.plex.tv",
   "*.chat.openai.com",
   "*.xhamster.com",
   "*.2ip.ru",
   "*.tmetric.com",
   "*.app.tmetric.com",
   "*.gtmetrix.com",
+  "*.youtube.com",
   "*.zomro.com"
 ];
 
