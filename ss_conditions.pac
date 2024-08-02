@@ -306,6 +306,7 @@ var __BLOCKEDSITES__ = [
   "*.app.tmetric.com",
   "*.gtmetrix.com",
   "*.youtube.com",
+  "*.music.youtube.com",
   "*.zomro.com"
 ];
 
