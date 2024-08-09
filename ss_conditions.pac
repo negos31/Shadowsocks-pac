@@ -452,16 +452,16 @@ var __BLOCKEDSITES__ = [
   "*.app.tmetric.com",
   "*.gtmetrix.com",
   "*.ua",
-  "*.youtube.com",
+  /*"*.youtube.com",
   "*.ytimg.com",
   "*.googlevideo.com",
-  /*"*.music.youtube.com",*/
+  "*.music.youtube.com",
   "*.youtu.be",
   ".youtube-nocookie.com",
   ".yt3.ggpht.com",
   ".s.ytimg.com",
   ".ytstatic.l.google.com",
-  ".i.ytimg.com",
+  ".i.ytimg.com",*/
   "*.zomro.com"
 
 ];
