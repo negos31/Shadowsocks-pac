@@ -449,4 +449,15 @@
 (?:^|\.)xhamster\.com$
 (?:^|\.)app\.tmetric\.com$
 (?:^|\.)tmetric\.com$
+(?:^|\.)ua$
+(?:^|\.)youtube\.com$
+(?:^|\.)ytimg\.com$
+(?:^|\.)googlevideo\.com$
+(?:^|\.)music\.youtube\.com$
+(?:^|\.)youtu\.be$
+(?:^|\.)youtube-nocookie\.com$
+(?:^|\.)yt3\.ggpht\.com$
+(?:^|\.)s\.ytimg\.com$
+(?:^|\.)ytstatic\.l\.google\.com$
+(?:^|\.)i\.ytimg\.com$
 (?:^|\.)zomro\.com$
