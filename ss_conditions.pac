@@ -455,13 +455,17 @@ var __BLOCKEDSITES__ = [
   "*.youtube.com",
   "*.ytimg.com",
   "*.googlevideo.com",
-  /*"*.music.youtube.com",*/
+  "*.music.youtube.com",
   "*.youtu.be",
   ".youtube-nocookie.com",
   ".yt3.ggpht.com",
   ".s.ytimg.com",
   ".ytstatic.l.google.com",
-  ".i.ytimg.com",
+  ".music.youtube.com",
+  ".youtubei.googleapis.com",
+  ".fonts.googleapis.com",
+  ".fonts.gstatic.com",
+  ".play.google.com",
   "*.zomro.com"
 
 ];
