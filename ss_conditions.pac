@@ -452,7 +452,7 @@ var __BLOCKEDSITES__ = [
   "*.app.tmetric.com",
   "*.gtmetrix.com",
   "*.ua",
-  "youtube.com",
+  /*"youtube.com",
   "www.youtube.com",
   "m.youtube.com",
   "youtube-nocookie.com",
@@ -461,8 +461,8 @@ var __BLOCKEDSITES__ = [
   "www.youtubeeducation.com",
   "ytimg.com",
   "s.ytimg.com",
-  "youtubei.googleapis.com"
-  /*"*.youtube.com",
+  "youtubei.googleapis.com"*/
+  "*.youtube.com",
   "*.ytimg.com",
   "*.googlevideo.com",
   "*.music.youtube.com",
@@ -475,7 +475,6 @@ var __BLOCKEDSITES__ = [
   ".youtubei.googleapis.com",
   ".fonts.googleapis.com",
   ".fonts.gstatic.com",
-  ".play.google.com",*/
   "*.zomro.com"
 
 ];
