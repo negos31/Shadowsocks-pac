@@ -477,6 +477,7 @@ var __BLOCKEDSITES__ = [
   ".fonts.gstatic.com",
   ".howlongtobeat.com",
   ".ign.com",
+  ".ntc.party.com",
   "*.zomro.com"
 
 ];
