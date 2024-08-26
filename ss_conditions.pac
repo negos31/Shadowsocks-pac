@@ -476,6 +476,10 @@ var __BLOCKEDSITES__ = [
   ".fonts.googleapis.com",
   ".fonts.gstatic.com",
   ".howlongtobeat.com",
+  ".media.howlongtobeat.com",
+  ".howlongtobeat.com",
+  ".media.howlongtobeat.com",
+  ".assets.howlongtobeat.com",
   ".ign.com",
   ".ntc.party.com",
   "*.zomro.com"
