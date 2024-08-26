@@ -1,5 +1,6 @@
 var __BLOCKEDSITES__ = [
   "*.copilot.cx",
+  "*.chatgpt.com",
   "*.flibusta.is",
   "*.githubcopilot.com",
   "*.openai.com",
