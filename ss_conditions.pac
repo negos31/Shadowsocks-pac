@@ -489,6 +489,7 @@ var __BLOCKEDSITES__ = [
   "*.zelenka.guru",
   "*.zerkalo.io",
   "*.zona.media",
+  "*.tmetric.com",
   "*.zomro.com"
 ];
 
