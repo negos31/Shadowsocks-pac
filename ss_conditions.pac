@@ -479,7 +479,6 @@ var __BLOCKEDSITES__ = [
   "*.yande.re",
   "*.yaoilib.me",
   "*.yle.fi",
-  "*.youtube.com",
   "*.ytimg.com",
   "*.yummyanime.org",
   "*.zahav.ru",
@@ -490,6 +489,10 @@ var __BLOCKEDSITES__ = [
   "*.zerkalo.io",
   "*.zona.media",
   "*.tmetric.com",
+  "steamcloudlrstyo.blob.core.windows.net",
+  "20.209.23.193",
+  "20.209.23.65",
+  "20.209.23.161",
   "*.zomro.com"
 ];
 
