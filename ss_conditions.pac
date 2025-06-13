@@ -513,6 +513,7 @@ var __BLOCKEDSITES__ = [
   "*.pornhub.com
   "*.xhamster.com",
   "*.tmetric.com",
+  "*.chatgpt.com",
   "*.zomro.com"
 ];
 
