@@ -510,7 +510,7 @@ var __BLOCKEDSITES__ = [
   "*.z-library.sk",
   "*.zona.media",
   "*.rt.pornhub.com",
-  "*.pornhub.comб,
+  "*.pornhub.com",
   "*.xhamster.com",
   "*.tmetric.com",
   "*.chatgpt.com",
