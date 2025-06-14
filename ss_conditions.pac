@@ -140,7 +140,7 @@ var __BLOCKEDSITES__ = [
   "*.analytics.discord.com",
   "*.updates.discord.com",
   "*.dl.discordapp.net",
-  "*.security.discord.com"
+  "*.security.discord.com",
   "*.discours.io",
   "*.dnsstuff.com",
   "*.docker.com",
